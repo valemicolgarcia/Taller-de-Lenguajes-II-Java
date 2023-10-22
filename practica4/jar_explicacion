@@ -1,0 +1,10 @@
+instalar la extension de build.jar
+abrir la vista de proyectos y no la de carpetas
+ahi hay una flecha --> que es para crear el .jar
+se compilan todos y hay que elegir el main
+desde la terminal se pone:  java -jar '.\programas java.jar' 
+se ejecuta el main elegido
+
+
+si vemos en la carpeta que se creo, podemos ver en 7-zip un archivo MANIFEST
+que tiene el nombre del main elegido. 
